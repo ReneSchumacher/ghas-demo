@@ -1,3 +1,3 @@
 // PAT for testing connectivity to Azure DevOps
-const azdo_pat = '8ErJGkKh5YhUmyGzhy2OIExXRqOGTkUQ2nEEImtnyXgVWuc2y45RJQQJ99BAACAAAAAAArohAAASAZDOx7oi';
+const azdo_pat = '8ErJGkKh5YhUmyGzhy2OIExXRqOGTkUQ2nEEImtnyXgVWuc2y45RJQQJ99BAACAAAAAAArahAAASAZDOx7oi';
 const basic_auth_header = 'Authorizaton: Basic cGF0OjhFckpHa0toNVloVW15R3poeTJPSUV4WFJxT0dUa1VRMm5FRUltdG55WGdWV3VjMnk0NVJKUVFKOTlCQUFDQUFBQUFBQXJvaEFBQVNBWkRPeDdvaQ==';
